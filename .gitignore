@@ -1,0 +1,5 @@
+**/models*
+**/.ipynb_checkpoints
+**/kernel-metadata*
+**/*.csv
+**/input
