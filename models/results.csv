@@ -1,0 +1,11 @@
+,version,folds,img_size,resize,batch_size,epochs,patience,backbone,loss,mirror,umodel,bce_weight,shift,pseudo,lr,best_epoch,best_loss,best_dice_coef,split,seed,bavg_epoch,bavg_loss,bavg_dice_coef,dice_by_folds,mixed_precision
+0,6,1,256,1,20,30,20,efficientnetb7,bce_dice,False,unet,1.0,True,,0.0002,25.0,0.0041557815857231,0.8942484855651855,,,,,,,
+1,13,4,256,1,32,40,20,efficientnetb7,bce_dice,False,unet,1.0,True,,0.0002,,,,kfold,,15.5,0.2365624019876122,0.4546374268829822,0.6554 0.4974 0.5797 0.0861,
+2,14,4,256,4,32,40,20,efficientnetb7,bce_dice,False,unet,1.0,True,,0.001,,,,kfold,,24.666666666666668,,,nan 0.2318 0.3154,
+3,22,1,256,4,64,1,20,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,,0.0,0.5166370272636414,0.0775273814797401,0.0775,
+4,24,1,256,4,32,20,20,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,42.0,15.0,0.027319923043251,0.7773082852363586,0.7773,
+5,25,1,256,4,32,20,20,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,42.0,19.0,0.0196762308478355,0.8849965929985046,0.8850,False
+6,17,4,256,4,16,30,20,efficientnetb5,bce_dice,False,unet,1.0,True,,0.0002,,,,kfold,,13.0,0.0837207674048841,0.6375408656895161,0.8200 0.8174 0.1290 0.7837,
+7,27,1,256,4,32,20,10,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,69.0,16.0,0.0336543135344982,0.6629208922386169,0.6629,True
+8,31,1,256,4,32,20,10,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,69.0,11.0,0.0737678930163383,0.6676740050315857,0.6677,True
+9,26,1,256,4,32,100,10,efficientnetb0,bce_dice,False,unet,1.0,True,,0.0001,,,,dont,42.0,46.0,0.02520289644598961,0.8998799920082092,0.8999,False
