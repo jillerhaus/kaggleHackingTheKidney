@@ -1,5 +1,4 @@
-**/models*
 **/.ipynb_checkpoints
 **/kernel-metadata*
-**/*.csv
-**/input
+**/submission.csv
+**/models_v*
