@@ -42,4 +42,5 @@
 40,106,1,256,4,32,1000,20,efficientnetb7,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,dont,69.0,,,,,True,True,True,True,,True,True
 41,105,1,256,4,32,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,dont,69.0,,,,,True,True,True,True,,True,True
 42,110,5,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,129.4,0.0123314552009105,0.905880868434906,0.9072 0.9095 0.9040 0.8955 0.9132,True,True,True,True,,True,False
-43,113,2,256,4,32,1000,20,densenet201,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,75.5,0.010925847105681896,0.8905349671840668,0.9063 0.8748,True,True,True,True,,True,False
+43,113,5,256,4,32,1000,20,densenet201,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,75.5,0.0109258471056818,0.8905349671840668,0.9063 0.8748,True,True,True,True,,True,False
+44,113,2,256,4,32,1000,20,densenet201,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,75.5,0.010925847105681896,0.8905349671840668,0.9063 0.8748,True,True,True,True,,True,False
