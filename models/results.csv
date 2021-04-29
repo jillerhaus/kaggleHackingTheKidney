@@ -42,4 +42,12 @@
 40,106,1,256,4,32,1000,20,efficientnetb7,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,dont,69.0,,,,,True,True,True,True,,True,True
 41,105,1,256,4,32,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,dont,69.0,,,,,True,True,True,True,,True,True
 42,110,5,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,129.4,0.0123314552009105,0.905880868434906,0.9072 0.9095 0.9040 0.8955 0.9132,True,True,True,True,,True,False
-43,113,2,256,4,32,1000,20,densenet201,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,75.5,0.010925847105681896,0.8905349671840668,0.9063 0.8748,True,True,True,True,,True,False
+43,113,2,256,4,32,1000,20,densenet201,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,75.5,0.0109258471056818,0.8905349671840668,0.9063 0.8748,True,True,True,True,,True,False
+44,114,1,256,4,16,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,dont,69.0,54.0,0.0128676686435937,0.8421036601066589,0.8421,True,True,True,True,,True,False
+45,115,1,256,4,32,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0005,,,,dont,69.0,56.0,0.0117839910089969,0.8924941420555115,0.8925,True,True,True,True,,True,False
+46,112,4,256,4,64,1000,20,resnext101,bce_jaccard_loss,False,link,1.0,True,,0.0001,,,,kfold,69.0,86.25,,,nan nan 0.9224 0.9285,True,True,True,True,,True,False
+47,116,1,256,4,64,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0005,,,,dont,69.0,48.0,0.0122095420956611,0.9082551598548888,0.9083,True,True,True,True,,True,False
+48,117,1,256,4,64,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.001,,,,dont,69.0,59.0,0.0114543652161955,0.9075342416763306,0.9075,True,True,True,True,,True,False
+49,127,1,512,4,8,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0003,,,,kfold,69.0,80.0,0.0098312105983495,0.8541440367698669,0.8541,True,True,True,True,,True,True
+50,128,1,512,4,32,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0005,,,,dont,69.0,104.0,0.0090865707024931,0.9249089360237122,0.9249,True,True,True,True,,True,False
+51,129,1,512,4,32,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0005,,,,dont,69.0,87.0,0.008998370729386806,0.9177746772766113,0.9178,True,True,True,True,,True,False
