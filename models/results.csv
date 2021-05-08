@@ -61,4 +61,6 @@
 59,153,1,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0005,,,,dont,69.0,107.0,0.0121689634397625,0.9136244058609008,0.9136,True,True,True,True,,True,False,
 60,156,1,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.001,,,,dont,69.0,96.0,0.0124909318983554,0.9124504923820496,0.9125,True,True,True,True,,True,False,
 61,158,1,256,4,32,20,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.0003,,,,dont,69.0,18.0,0.0135921444743871,0.8348382115364075,0.8348,True,True,True,True,,True,True,True
-62,161,1,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.001,,,,dont,69.0,96.0,0.022153588011860847,0.9176130294799805,0.9176,True,True,,True,,,True,True
+62,161,1,256,4,128,1000,20,efficientnetb0,bce_jaccard_loss,False,link,1.0,True,,0.001,,,,dont,69.0,96.0,0.0221535880118608,0.9176130294799804,0.9176,True,True,,True,,,True,True
+63,163,1,256,4,32,1000,30,efficientnetb2,bce_jaccard_loss,False,link,1.0,True,1.0,0.0005,,,,dont,69.0,51.0,0.017385808750987,0.9115925431251526,0.9116,True,True,,True,,,True,True
+64,162,1,256,4,32,1000,30,efficientnetb7,bce_jaccard_loss,False,link,1.0,True,1.0,0.0005,,,,dont,69.0,69.0,0.01745942234992981,0.9178328514099121,0.9178,True,True,,True,,,True,True
